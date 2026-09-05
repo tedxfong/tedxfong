@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-I am a Ph.D. candidate (expected graduation: Sep. 2026) at [Shizuoka University](https://www.shizuoka.ac.jp/english/) in Hamamatsu, Japan, supervised by [Prof. Keiichiro Kagawa](https://idl.rie.shizuoka.ac.jp/~kagawa/). My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
+I am a Ph.D. graduated from [Shizuoka University](https://www.shizuoka.ac.jp/english/) in Hamamatsu, Japan, supervised by [Prof. Keiichiro Kagawa](https://idl.rie.shizuoka.ac.jp/~kagawa/). My research focuses on **biomedical imaging** and **high dynamic range (HDR) imaging** using **multi-tap CMOS image sensors**.
 
 ## 📸 Research Interests
 
